@@ -65,11 +65,7 @@ Technologies: Python · Pandas · XGBoost · Machine Learning
 
 ---
 
-🌐 Connect With Me
 
-""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/nehachaudhary0448-eng)
-
----
 
 Learning. Building. Improving. One commit at a time.
 
