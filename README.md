@@ -1,0 +1,90 @@
+NEHA CHAUDHARY 👋
+
+B.Tech CSE Student · Aspiring Software Developer
+
+«Learning by building — developing practical applications, exploring web technologies and solving real-world problems through code.»
+
+---
+
+👩‍💻 About Me
+
+I'm a B.Tech Computer Science Engineering student at Invertis University, passionate about software development, programming and building practical applications.
+
+My interests revolve around:
+
+- Artificial Intelligence
+- Frontend Development
+- Backend Development
+- Java Programming
+- Data Structures & Algorithms
+- Web Development
+
+I believe in learning through practice, building projects and continuously improving my technical skills.
+
+---
+
+⚡ Technical Skills
+
+Programming Languages
+
+"Java" (https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+"C" (https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+Frontend Development
+
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+Tools & Platforms
+
+"Git" (https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+🚀 Featured Project
+
+Hospital Appointment & No-Show Prediction System
+
+A machine learning-based project that analyzes historical hospital appointment data to identify patterns and predict patient no-shows. The system aims to help understand factors contributing to missed appointments.
+
+Technologies: Python · Pandas · XGBoost · Machine Learning
+
+---
+
+🎯 Currently Focusing On
+
+- Strengthening Java programming fundamentals.
+- Practising Data Structures & Algorithms.
+- Learning Frontend Development.
+- Exploring Backend Development.
+- Building Full-Stack projects.
+- Improving problem-solving skills.
+
+---
+
+🌐 Connect With Me
+
+""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/nehachaudhary0448-eng)
+
+---
+
+Learning. Building. Improving. One commit at a time.
+
+<!--
+**nehachaudhary0445-eng/nehachaudhary0445-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
