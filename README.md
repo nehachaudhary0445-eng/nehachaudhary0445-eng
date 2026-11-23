@@ -27,21 +27,21 @@ I believe in learning through practice, building projects and continuously impro
 
 Programming Languages
 
-"Java" 
-"Python" 
-"C" 
+- Java
+- Python
+- C
 
 Frontend Development
 
-"HTML5" 
-"CSS3" 
-"JavaScript" 
+- HTML5
+- CSS3
+- JavaScript
 
 Tools & Platforms
 
-"Git" 
-"GitHub"
-"VS Code" 
+- Git
+- GitHub
+- VS Code
 ---
 
 🚀 Featured Project
